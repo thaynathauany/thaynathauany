@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thaynathauany
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 📫 How to reach me thayna98@gmail.com
