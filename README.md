@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @thaynathauany
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning Java and Python
 - 📫 How to reach me thayna98@gmail.com
