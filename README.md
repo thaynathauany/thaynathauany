@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @thaynathauany
 - 👀 I’m interested in learning software development
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Python and React JS
 - 📫 How to reach me: thayna98@gmail.com
