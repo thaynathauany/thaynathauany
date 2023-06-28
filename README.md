@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @thaynathauany
+<div>- 👋 Hi, I’m @thaynathauany
+<div class="tenor-gif-embed" data-postid="17954501" data-share-method="host" data-aspect-ratio="1.36752" data-width="100%"><a href="https://tenor.com/view/hacker-pupper-dog-hacker-computer-keyboard-gif-17954501">Hacker Pupper Dog GIF</a>from <a href="https://tenor.com/search/hacker+pupper-gifs">Hacker Pupper GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 - 👀 I’m Software Development Intern 
 - 🌱 I’m currently working with React, Typescript and Next
 - 📫 How to reach me:
@@ -7,6 +9,7 @@
           <a href = "mailto:thayna98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/thayná-thauany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+![image](https://github.com/thaynathauany/thaynathauany/assets/86171999/7c3edc10-5ef4-404c-8238-3253cb557433)
 
            
 
