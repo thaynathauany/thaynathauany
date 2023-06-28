@@ -1,6 +1,4 @@
-<div>- 👋 Hi, I’m @thaynathauany
-<div class="tenor-gif-embed" data-postid="17954501" data-share-method="host" data-aspect-ratio="1.36752" data-width="100%"><a href="https://tenor.com/view/hacker-pupper-dog-hacker-computer-keyboard-gif-17954501">Hacker Pupper Dog GIF</a>from <a href="https://tenor.com/search/hacker+pupper-gifs">Hacker Pupper GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+- 👋 Hi, I’m @thaynathauany
 - 👀 I’m Software Development Intern 
 - 🌱 I’m currently working with React, Typescript and Next
 - 📫 How to reach me:
