@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @thaynathauany
-- 👀 I’m interested in learning software development
-- 🌱 I’m currently learning Python and React JS
-- 📫 How to reach me: thayna98@gmail.com
+- 👀 I’m Software Development Intern 
+- 🌱 I’m currently working with React, Typescript and Next
+- 📫 How to reach me: [thayna98@gmail.com](https://www.linkedin.com/in/thayn%C3%A1-thauany/)https://www.linkedin.com/in/thayn%C3%A1-thauany/
