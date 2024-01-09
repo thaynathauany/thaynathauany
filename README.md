@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thaynathauany
-- 👀 I’m Software Development Intern 
+- 👀 I’m Software Development 
 - 🌱 I’m currently working with React, Typescript and Next
 - 📫 How to reach me:
 <div>
